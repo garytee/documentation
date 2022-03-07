@@ -1,10 +1,10 @@
 ---
-title: Child of Test
-parent: Test
+title: Child of RegEx
+parent: RegEx
 has_children: true
 nav_order: 1
 ---
 
-# Child of test
+# Child of RegEx
 
 I am a child page.
