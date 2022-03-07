@@ -8,6 +8,14 @@ Whenever there's a commit to this repository, GitHub Pages will run [Jekyll](htt
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
 ```markdown
 Syntax highlighted code block
 
