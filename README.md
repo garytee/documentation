@@ -1,3 +1,8 @@
+---
+title: Home
+has_children: false
+nav_order: 1
+---
 ## Code Docs
 
 The [editor on GitHub](https://github.com/garytee/documentation/edit/main/README.md) can be used to maintain and preview the content for the docs in Markdown files.
